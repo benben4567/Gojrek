@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gojrek</string>
+    <string name="title_activity_tambah_cash">TambahCashActivity</string>
+    <string-array name="orderan_arrays">
+        <item>GORIDE</item>
+        <item>GOFOOD</item>
+        <item>GOSEND</item>
+        <item>GOSHOP</item>
+        <item>GOMART</item>
+        <item>GOMED</item>
+    </string-array>
+</resources>
